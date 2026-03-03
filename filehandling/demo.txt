@@ -1,0 +1,6 @@
+This is sample demo text file
+Demo file read by Python code
+Trying to Open the file
+read
+Write the file
+This will the last line
